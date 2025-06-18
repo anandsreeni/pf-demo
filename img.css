@@ -1,0 +1,45 @@
+.container{
+    
+    
+  display: flex;
+  
+  gap: 40px;
+  justify-content: center;
+  flex-wrap: wrap;
+
+
+}
+.img1{
+      border: 5px outset red;
+  background-color: aqua;
+  text-align: center;
+  width:300px;
+  padding:10px;
+  height:150;
+  width:200;
+}
+
+.img2{
+ 
+  border: 5px outset red;
+  background-color: aqua;
+  text-align: center;
+  width:300px;
+  padding:10px;
+}
+
+ .img3{
+    border: 5px outset red;
+  background-color: aqua;
+  text-align: center;
+  width:300px;
+  padding:10px;
+}
+
+.img4{
+    border: 5px outset red;
+  background-color: aqua;
+  text-align: center;
+  width:300px;
+  padding:10px;
+} 
